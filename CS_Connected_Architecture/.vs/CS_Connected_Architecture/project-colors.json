@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb2d7d27-1b44-4207-b405-bd4a96bdd8b0": {
+      "ProjectGuid": "cb2d7d27-1b44-4207-b405-bd4a96bdd8b0",
+      "DisplayName": "CS_Connected_Architecture",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

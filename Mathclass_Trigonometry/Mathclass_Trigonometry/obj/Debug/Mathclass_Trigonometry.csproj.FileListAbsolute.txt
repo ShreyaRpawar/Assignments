@@ -1,0 +1,8 @@
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\bin\Debug\Mathclass_Trigonometry.exe.config
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\bin\Debug\Mathclass_Trigonometry.exe
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\bin\Debug\Mathclass_Trigonometry.pdb
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\obj\Debug\Mathclass_Trigonometry.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\obj\Debug\Mathclass_Trigonometry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\obj\Debug\Mathclass_Trigonometry.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\obj\Debug\Mathclass_Trigonometry.exe
+C:\Users\Coditas\source\repos\Mathclass_Trigonometry\Mathclass_Trigonometry\obj\Debug\Mathclass_Trigonometry.pdb

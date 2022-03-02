@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Coditas\source\repos\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\Coditas\source\repos\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Coditas\source\repos\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\Coditas\source\repos\Serialization\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\bin\Debug\Serialization.exe
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\obj\Debug\Serialization.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\obj\Debug\Serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\obj\Debug\Serialization.exe
+C:\Users\Coditas\Desktop\assignments\Serialization\Serialization\obj\Debug\Serialization.pdb

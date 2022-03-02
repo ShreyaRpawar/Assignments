@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\bin\Debug\Emp_data.exe.config
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\bin\Debug\Emp_data.exe
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\bin\Debug\Emp_data.pdb
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\obj\Debug\Emp_data.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\obj\Debug\Emp_data.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\obj\Debug\Emp_data.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\obj\Debug\Emp_data.exe
+C:\Users\Coditas\source\repos\Emp_data\Emp_data\obj\Debug\Emp_data.pdb
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\bin\Debug\Emp_data.exe.config
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\bin\Debug\Emp_data.exe
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\bin\Debug\Emp_data.pdb
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\obj\Debug\Emp_data.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\obj\Debug\Emp_data.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\obj\Debug\Emp_data.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\obj\Debug\Emp_data.exe
+C:\Users\Coditas\Desktop\assignments\Emp_data\Emp_data\obj\Debug\Emp_data.pdb

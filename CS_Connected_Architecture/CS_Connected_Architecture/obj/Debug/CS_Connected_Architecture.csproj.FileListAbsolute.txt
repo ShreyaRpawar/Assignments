@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\bin\Debug\CS_Connected_Architecture.exe.config
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\bin\Debug\CS_Connected_Architecture.exe
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\bin\Debug\CS_Connected_Architecture.pdb
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.exe
+C:\Users\Coditas\source\repos\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.pdb
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\bin\Debug\CS_Connected_Architecture.exe.config
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\bin\Debug\CS_Connected_Architecture.exe
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\bin\Debug\CS_Connected_Architecture.pdb
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.csproj.AssemblyReference.cache
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.exe
+C:\Users\Coditas\Desktop\assignments\CS_Connected_Architecture\CS_Connected_Architecture\obj\Debug\CS_Connected_Architecture.pdb
