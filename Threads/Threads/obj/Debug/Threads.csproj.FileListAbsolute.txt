@@ -1,0 +1,8 @@
+C:\Users\Coditas\source\repos\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\Coditas\source\repos\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\Coditas\source\repos\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\Coditas\source\repos\Threads\Threads\obj\Debug\Threads.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\Threads\Threads\obj\Debug\Threads.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\Coditas\source\repos\Threads\Threads\obj\Debug\Threads.pdb
